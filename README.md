@@ -4,6 +4,8 @@
 
 Pumpation enables creators to publish animation projects, collaborate openly, and manage ownership transparently without relying on centralized studios.
 
+Ca Officialy : 5XcsWRBmmMDkLpKDUvxMqaeiJXNDa1eFGWGGFuvNpump
+Lock Dev Supply 100% : https://app.streamflow.finance/contract/solana/mainnet/2RssmgMrLmeNCCKCqkswKjUa4rF4mRBR14EjbiYy3zkw?ref=comfortingly-memorable-motmot
 ---
 
 ## Overview
